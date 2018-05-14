@@ -1,0 +1,42 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  amenities:
+    wifi:
+      visible: true
+      icon: 'wifi'
+    kitchen:
+      visible: false
+      icon: 'cutlery'
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  amenities:
+    wifi:
+      visible: true
+      icon: 'wifi'
+    kitchen:
+      visible: false
+      icon: 'cutlery'
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  amenities:
+    wifi:
+      visible: true
+      icon: 'wifi'
+    kitchen:
+      visible: false
+      icon: 'cutlery'
